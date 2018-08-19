@@ -1,0 +1,36 @@
+h1{
+    background-color: #4aaaa5;
+    color:white;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+}
+
+.content_border{
+    background-color: #dddddd;
+    
+}
+.content_background{
+    width:960px;
+    padding:30px;
+   /* border:30px #dddddd;*/
+    margin:auto;
+    background-color: #ffffff;
+}
+h2{
+    color: #4aaaa5;
+    border-bottom-style: solid; 
+    border-bottom-color: #cccccc;
+    padding:20px;
+}
+p{
+    color:#777777;
+}
+img{
+    float: left;
+    margin: 20px;
+}
+#footer{
+  
+    background-color:#666666;
+}
+
