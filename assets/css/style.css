@@ -37,7 +37,7 @@
     list-style-type: none;
     float: right;  
     margin-right: 116px;
-    padding: 0;
+    padding: 10px;
 }
 .nav li{
     display: inline-block;
@@ -46,12 +46,6 @@ a{
     color:#777777;
    text-decoration: none;    
 }
-/*#header{
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    float: right;
-}*/
-
-
 
 h2{
     font-family: Georgia, Times, Times New Roman, serif;
