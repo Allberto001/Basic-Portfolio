@@ -1,4 +1,5 @@
 .content_border{
+    background-image:url("../images/background.jpg");
     background-color: #dddddd;
     border-top-style: solid;
     border-top-color: #cccccc;
