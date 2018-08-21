@@ -150,7 +150,8 @@ pic2{
     margin-top: 376px;
 }
 #footer{
-    color: #666666;
+    color:white;
+    text-align: center;
     background-color:#666666;
     border-top: solid;
     border-color:#4aaaa5;
