@@ -4,7 +4,7 @@
     border-top-style: solid;
     border-top-color: #cccccc;
     padding: 40px;
-    
+    clear: both;
 }
 .content_background{
     width:960px;
@@ -27,11 +27,14 @@
     font-family: Georgia, Times, Times New Roman, serif;
     background-color: #4aaaa5;
     color:white;
-    float: top;
+    float: left;
     padding:20px;
     margin-left: 113px;
     width:20%
     
+}
+header{
+
 }
 .nav{
     background-color:#ffffff; 
