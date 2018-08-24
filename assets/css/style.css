@@ -39,7 +39,8 @@ header{
 .nav{
     background-color:#ffffff; 
     list-style-type: none;
-    float: right;  
+    float: right; 
+    font-size: 25px; 
     margin-right: 124px;
     padding: 10px;
 }
